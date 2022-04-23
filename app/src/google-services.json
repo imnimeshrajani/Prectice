@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1027077798327",
+    "project_id": "kotlin-prectice",
+    "storage_bucket": "kotlin-prectice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027077798327:android:179ba670973aa95bb39032",
+        "android_client_info": {
+          "package_name": "com.example.prectice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027077798327-tbpctmit2mq6io7l9nm3qtg2io64uiu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prectice",
+            "certificate_hash": "ce905fdf0a73f2d7645c4d213685c09c3020493f"
+          }
+        },
+        {
+          "client_id": "1027077798327-uojnjs51no7l4o0207nu589u8bjcm36v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkRWKe3C9KXX9xYqxtKjf1bS1BR2TdYzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027077798327-uojnjs51no7l4o0207nu589u8bjcm36v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
